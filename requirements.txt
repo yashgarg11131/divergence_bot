@@ -1,0 +1,32 @@
+aiohttp==3.8.5
+aiosignal==1.3.1
+APScheduler==3.10.4
+async-timeout==4.0.3
+attrs==23.1.0
+certifi==2023.7.22
+charset-normalizer==3.2.0
+click==8.1.7
+discord==2.3.2
+discord.py==2.3.2
+frozenlist==1.4.0
+idna==3.4
+multidict==6.0.4
+numpy
+pandas==2.0.3
+pynescript==0.1.0
+pyparsing==3.1.1
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+pytz==2023.3.post1
+requests==2.31.0
+six==1.16.0
+# TA-Lib @ git+https://github.com/TA-Lib/ta-lib-python.git@47642d26e1eb88a35842128163172de4acc927af
+tqdm==4.66.1
+tradingview-ta==3.3.0
+tvdatafeed @ git+https://github.com/rongardF/tvdatafeed.git@e6f6aaa7de439ac6e454d9b26d2760ded8dc4923
+tzdata==2023.3
+tzlocal==5.0.1
+urllib3==2.0.4
+websocket-client==1.6.3
+yarl==1.9.2
+mysql-connector-python==8.2.0
